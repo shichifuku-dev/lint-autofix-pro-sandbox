@@ -1,0 +1,9 @@
+{
+  "name": "lint-autofix-pro-sandbox",
+  "private": true,
+  "version": "1.0.0",
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "prettier": "^3.0.0"
+  }
+}
